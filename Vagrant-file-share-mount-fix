@@ -1,0 +1,5 @@
+
+vagrant ssh
+ls -lh /sbin/mount.vboxsf 
+
+vagrant reload

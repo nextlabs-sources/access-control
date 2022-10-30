@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/kmanimarpan/source/repos/bitbucket-access-control","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/opt/nextlabs":{"guestpath":"/opt/nextlabs","hostpath":"C:/Users/kmanimarpan/source/repos","disabled":false,"__vagrantfile":true}}}
